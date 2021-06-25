@@ -1,0 +1,31 @@
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\AppxContent\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\AppxContent\Microsoft.ui.xaml.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop\bin\x64\Debug\net5.0-windows10.0.19041.0\App.xbf
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop\bin\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x64\ucrtbased.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\Images\SplashScreen.scale-200.png
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\Images\LockScreenLogo.scale-200.png
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\Images\Square150x150Logo.scale-200.png
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\Images\Square44x44Logo.scale-200.png
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\Images\StoreLogo.png
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\Images\Wide310x150Logo.scale-200.png
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\resources.pri
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop\obj\x64\Debug\net5.0-windows10.0.19041.0\Msix\WinUI3-Desktop.deps.json
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop\obj\x64\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop\obj\x64\Debug\net5.0-windows10.0.19041.0\WinUI3-Desktop.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop\bin\x64\Debug\net5.0-windows10.0.19041.0\WinUI3-Desktop.runtimeconfig.json
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop\obj\x64\Debug\net5.0-windows10.0.19041.0\WinUI3-Desktop.pdb
+C:\Users\monicach\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.17\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\monicach\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.17\lib\WinRT.Runtime.dll
+C:\Users\monicach\.nuget\packages\microsoft.projectreunion.foundation\0.8.0-preview\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\monicach\.nuget\packages\microsoft.projectreunion.interactiveexperiences\0.8.0-preview\lib\net5.0-windows10.0.18362.0\Microsoft.UI.Windowing.Projection.dll
+C:\Users\monicach\.nuget\packages\microsoft.projectreunion.winui\0.8.0-preview\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\monicach\.nuget\packages\microsoft.projectreunion.foundation\0.8.0-preview\runtimes\lib\native\arm64\Microsoft.ProjectReunion.Bootstrap.dll
+C:\Users\monicach\.nuget\packages\microsoft.projectreunion.foundation\0.8.0-preview\runtimes\lib\native\arm64\Microsoft.ProjectReunion.Bootstrap.pdb
+C:\Users\monicach\.nuget\packages\microsoft.projectreunion.foundation\0.8.0-preview\runtimes\lib\native\x64\Microsoft.ProjectReunion.Bootstrap.dll
+C:\Users\monicach\.nuget\packages\microsoft.projectreunion.foundation\0.8.0-preview\runtimes\lib\native\x64\Microsoft.ProjectReunion.Bootstrap.pdb
+C:\Users\monicach\.nuget\packages\microsoft.projectreunion.foundation\0.8.0-preview\runtimes\lib\native\x86\Microsoft.ProjectReunion.Bootstrap.dll
+C:\Users\monicach\.nuget\packages\microsoft.projectreunion.foundation\0.8.0-preview\runtimes\lib\native\x86\Microsoft.ProjectReunion.Bootstrap.pdb
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop\bin\x64\Debug\net5.0-windows10.0.19041.0\AppxContent\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop\bin\x64\Debug\net5.0-windows10.0.19041.0\AppxContent\Microsoft.ui.xaml.dll

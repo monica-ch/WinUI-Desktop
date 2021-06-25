@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "0bh4e1BzcONtiapZO+CHmSXgIBwbALSFN9GygNR8+qYVLS+1VboUqvots1amiXSywakgr/nR+pNQF8G1lPTRMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monicach\\source\\repos\\WinUI3-Desktop\\WinUI3-Desktop\\WinUI3-Desktop\\WinUI3-Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.projectreunion\\0.8.0-preview\\microsoft.projectreunion.0.8.0-preview.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.8.0-preview\\microsoft.projectreunion.dwrite.0.8.0-preview.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.projectreunion.foundation\\0.8.0-preview\\microsoft.projectreunion.foundation.0.8.0-preview.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.projectreunion.interactiveexperiences\\0.8.0-preview\\microsoft.projectreunion.interactiveexperiences.0.8.0-preview.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.projectreunion.winui\\0.8.0-preview\\microsoft.projectreunion.winui.0.8.0-preview.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.7\\microsoft.netcore.app.runtime.win-x64.5.0.7.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.7\\microsoft.aspnetcore.app.runtime.win-x64.5.0.7.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\5.0.7\\microsoft.netcore.app.runtime.win-arm64.5.0.7.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.7.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.17\\microsoft.windows.sdk.net.ref.10.0.19041.17.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\5.0.7\\microsoft.aspnetcore.app.runtime.win-arm64.5.0.7.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.7\\microsoft.netcore.app.runtime.win-x86.5.0.7.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.7\\microsoft.aspnetcore.app.runtime.win-x86.5.0.7.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

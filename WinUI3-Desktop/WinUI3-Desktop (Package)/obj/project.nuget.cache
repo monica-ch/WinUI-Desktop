@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CETZVse9S3vuDGwm8XFC6kiWnApe/enNS/upIXqPhApfOTTrvmbrglauc1K3U+Cs3/FBDfsYM74W/DGQpNowIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monicach\\source\\repos\\WinUI3-Desktop\\WinUI3-Desktop\\WinUI3-Desktop (Package)\\WinUI3-Desktop (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.projectreunion\\0.8.0-preview\\microsoft.projectreunion.0.8.0-preview.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.8.0-preview\\microsoft.projectreunion.dwrite.0.8.0-preview.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.projectreunion.foundation\\0.8.0-preview\\microsoft.projectreunion.foundation.0.8.0-preview.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.projectreunion.interactiveexperiences\\0.8.0-preview\\microsoft.projectreunion.interactiveexperiences.0.8.0-preview.nupkg.sha512",
+    "C:\\Users\\monicach\\.nuget\\packages\\microsoft.projectreunion.winui\\0.8.0-preview\\microsoft.projectreunion.winui.0.8.0-preview.nupkg.sha512"
+  ],
+  "logs": []
+}

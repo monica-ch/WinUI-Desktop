@@ -1,0 +1,46 @@
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\App.xbf
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\MainWindow.xbf
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\WinUI3-Desktop.deps.json
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\WinUI3-Desktop.exe
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\WinUI3-Desktop.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\WinUI3-Desktop.runtimeconfig.json
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\WinUI3-Desktop.pdb
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\Microsoft.Windows.SDK.NET.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\WinRT.Runtime.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\Microsoft.UI.Windowing.Projection.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\Microsoft.WinUI.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\runtimes\lib\native\arm64\Microsoft.ProjectReunion.Bootstrap.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\runtimes\lib\native\arm64\Microsoft.ProjectReunion.Bootstrap.pdb
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\runtimes\lib\native\x64\Microsoft.ProjectReunion.Bootstrap.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\runtimes\lib\native\x64\Microsoft.ProjectReunion.Bootstrap.pdb
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\runtimes\lib\native\x86\Microsoft.ProjectReunion.Bootstrap.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\runtimes\lib\native\x86\Microsoft.ProjectReunion.Bootstrap.pdb
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop\Microsoft.ui.xaml.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\resources.pri
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\AppxManifest.xml
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\WinUI3-Desktop (Package).build.appxrecipe
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\bin\x64\Debug\Microsoft.ui.xaml.dll
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\WinUI3-Desktop (Package).wapprojAssemblyReference.cache
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\WinUI3-Desktop (Package).wapproj.CoreCompileInputs.cache
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\WinUI3-Desktop (Package).wapproj.CopyComplete
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\WinUI3-Desktop.pri.xml
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\priconfig.xml
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\resources.resfiles
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\pri.resfiles
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\qualifiers.txt
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\monicach\source\repos\WinUI3-Desktop\WinUI3-Desktop\WinUI3-Desktop (Package)\obj\x64\Debug\WinUI3-Desktop (Package).wapproj.LastBuild.txt
